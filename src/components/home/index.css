@@ -1,0 +1,17 @@
+#a1 {
+  color: rgb(162, 241, 15);
+}
+#a2 {
+  font-size: 30px;
+}
+#a3 {
+  height: 45px;
+  width: 300px;
+  text-align: center;
+  margin-left: 520px;
+}
+.btn {
+  height: 45px;
+  width: 150px;
+  margin-left: 600px;
+}
